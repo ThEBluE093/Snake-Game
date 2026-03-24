@@ -1,0 +1,10 @@
+# Kompilaty i pliki wykonywalne
+*.exe
+*.out
+*.a
+
+# Pliki specyficzne dla Visual Studio
+.vs/
+
+# Pliki tekstowe z danymi (wyniki gry)
+*.txt
