@@ -17,4 +17,4 @@ Assety: Plik `cs8x8.bmp` (charset do renderowania napisów).
 Aby skompilować projekt, upewnij się, że biblioteki SDL2 są poprawnie podlinkowane w Twoim środowisku.
 Kroki kompilacji i uruchomienia:
 1.) /comp
-2.) 
+2.) /snake
